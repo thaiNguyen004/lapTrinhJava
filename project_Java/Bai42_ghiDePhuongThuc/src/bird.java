@@ -9,8 +9,10 @@ public class bird extends animals{
 	{
 		System.out.println("Tôi ăn sâu");
 	}
-	public void makeSound()
-	{
-		System.out.println("Chít chít");
+	@Override
+	public void makeSound() {
+		// TODO Auto-generated method stub
+		System.out.println("Chíp chíp");
 	}
+	
 }
