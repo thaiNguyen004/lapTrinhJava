@@ -16,5 +16,6 @@ public static void main(String[] args) {
 	System.out.println("kiemTraTongTienLonHon500K "+hd2.kiemTraTongTienLonHon500K());
 	System.out.println("Giảm giá: "+hd2.giamGia(10));
 	System.out.println("Giá cuối: "+hd2.giaSauKhiGiam(10));
+	
 }
 }

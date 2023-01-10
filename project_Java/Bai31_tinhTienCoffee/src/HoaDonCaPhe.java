@@ -3,6 +3,7 @@ public class HoaDonCaPhe {
 	private String tenLoaiCaPhe;
 	private double giaTien;
 	private double khoiLuong;
+	public double abc;
 	
 	public HoaDonCaPhe(String ten, double gia, double khoiLuong)
 	{

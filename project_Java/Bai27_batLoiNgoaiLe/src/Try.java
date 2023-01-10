@@ -13,6 +13,7 @@ public static void main(String[] args) {
 	}catch(Exception e)
 	{
 		System.out.println("Nhập dữ liệu không đúng");
+		e.printStackTrace();
 	}finally
 	{
 		System.out.println("Finally");
